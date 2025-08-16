@@ -1,0 +1,1 @@
+Just drag out the c files into src and compile them normally
